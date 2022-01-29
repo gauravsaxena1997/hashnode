@@ -62,6 +62,10 @@ As you expected, since Angular is a Front-end language, you should have the basi
 - Javascript
 - Typescript
 
+***
+
+Previous blog [Introduction: Learning Angular from scratch](https://gauravsaxena.hashnode.dev/introduction-angular-from-scratch)
+
 Next blog [Setting up  an Angular App with Angular CLI](https://gauravsaxena.hashnode.dev/setting-up-an-angular-app-with-angular-cli)
 
 * * *
