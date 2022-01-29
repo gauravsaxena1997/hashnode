@@ -124,7 +124,7 @@ That's enough of this tutorial. In the next one, we will create our first module
 ***
 Previous Blog [Wrap it up with Decorators](https://gauravsaxena.hashnode.dev/what-are-decorators)
 
-Next blog [Integrating Angular Material as a Module](https://gauravsaxena.hashnode.dev//integrating-angular-material)
+Next blog [Integrating Angular Material as a Module](https://gauravsaxena.hashnode.dev/integrating-angular-material)
 
 
 
