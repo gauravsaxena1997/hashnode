@@ -68,13 +68,6 @@ Previous blog [Introduction: Learning Angular from scratch](https://gauravsaxena
 
 Next blog [Setting up  an Angular App with Angular CLI](https://gauravsaxena.hashnode.dev/setting-up-an-angular-app-with-angular-cli)
 
-* * *
-
-### Playlist for this Angular blog series
-Check out the whole playlist by clicking the below link for more details, updates, or jump to a specific blog.
-
-[Learning Angular from scratch](https://gauravsaxena.hashnode.dev/series/angular-from-scratch).
-
 
 
 
