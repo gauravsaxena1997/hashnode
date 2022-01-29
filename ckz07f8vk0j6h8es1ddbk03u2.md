@@ -41,10 +41,3 @@ So, without further ado, let's dive in.
 %[https://media.giphy.com/media/DX5Y5ot4Quq6k/giphy.gif]
 
 Next blog [What the heck is Angular?](https://gauravsaxena.hashnode.dev/what-is-angular)
-
-* * *
-
-### Playlist for this Angular blog series
-Check out the whole playlist by clicking the below link for more details, updates or jump to a specific blog.
-
-[Learning Angular from scratch](https://gauravsaxena.hashnode.dev/series/angular-from-scratch).
